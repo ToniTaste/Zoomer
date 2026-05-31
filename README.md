@@ -9,7 +9,7 @@ Ein Tool zum Zoomen in Raster- und Vektorgrafiken.
 
 ## 🖼️ Screenshot
 
-![Screenshot der Benutzeroberfläche](screenshot.png)
+![Screenshot der Benutzeroberfläche](Screenshot.png)
 
 ## 🚀 Online ausprobieren
 
@@ -22,6 +22,6 @@ Ein Tool zum Zoomen in Raster- und Vektorgrafiken.
 Du kannst das Projekt lokal starten, indem du die Dateien einfach in einen Ordner speicherst und `index.html` in einem Browser öffnest:
 
 ```bash
-git clone https://github.com/ToniTaste/Zommer.git
+git clone https://github.com/ToniTaste/Zoomer.git
 cd Zoomer
 # Dann: index.html im Browser öffnen
