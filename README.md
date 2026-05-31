@@ -9,13 +9,13 @@ Ein Tool zum Zoomen in Raster- und Vektorgrafiken.
 
 ## 🖼️ Screenshot
 
-![Screenshot der Benutzeroberfläche](Screenshot.png)
+![Screenshot der Benutzeroberfläche](screenshot.png)
 
 ## 🚀 Online ausprobieren
 
 > Wird unterstützt durch **GitHub Pages**.
 
-👉 [Hier klicken, um das Projekt direkt im Browser zu starten](https://tonitaste.github.io/Zoomer/index.html)
+👉 [Hier klicken, um das Projekt direkt im Browser zu starten](https://tonitaste.github.io/Zoomer/)
 
 ## 📦 Installation (lokal)
 
